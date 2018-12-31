@@ -1,0 +1,20 @@
+baseURL = "http://tylerarbus.com"
+languageCode = "en-us"
+title = "Tyler Arbus"
+theme = "hallo"
+[Author]
+    name = "Tyler"
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/tylerarbus"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "e-mail"
+        url = "mailto:me@tylerarbus.com"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/tylerarbus/"
